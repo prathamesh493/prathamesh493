@@ -22,9 +22,17 @@
 🔹 [**WealthWizard**](https://github.com/prathamesh493/humanaize-fintech-24) – **Financial Management System** powered by Machine Learning  
 
 ## 🏆 Achievements
-- **Winner** - Smart India Hackathon 2023
-- **1st Place** - FintechFusion Hackathon 2024
-- **Open Source Contributor** - Contributed to 5+ projects
+- Finalist, BuildForBharat Hackathon (ONDC):
+
+Devised an automated negotiation engine for buyer and seller app reducing the back-and-forth time by 60% and
+30% more buyer and seller satisfaction, ranked among the top 50 teams out of 27,000 teams all over India.
+- Finalist, Fintech HumanAize Hackathon:
+  
+Introduced a financial platform with features like a chatbot using the llama3 model, credit score management,
+loan repayment, and budget optimization, securing a spot in top 152 teams of numerous entries.
+- Participant, Hackwave Hackathon:
+  
+Trained a XGBClassifier model for windmill power grid stability which had accuracy of 83%.
 
 ## 📊 GitHub Stats  
 ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamesh493&show_icons=true&theme=tokyonight)  
